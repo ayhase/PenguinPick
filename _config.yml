@@ -1,0 +1,45 @@
+# Site settings
+title: Penguin's Pick
+tagline : 인생의 재미찾기
+description: "성격급한 직장인의 no stress로 사는법"
+url: "https://slowpeng.com"
+author:
+  name: "SJ"
+  email: "o2midnight85@gmail.com"
+  url: "https://slowpeng.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source:
+destination: /_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+      - jekyll-paginate
+      - jekyll-sitemap
+      - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: penguins-pick-1
