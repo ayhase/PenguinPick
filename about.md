@@ -1,21 +1,12 @@
 ---
 layout: page
-title: About Emerald
+title: 나를 위한 행복찾기
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+## Penguin's Pick
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+![Emerald](img/sketchme.jpg "me")
 
-![Emerald](img/Emerald01.png "Emerald")
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+인생의 다양한 선택의 연속이다.
+직장 노비로 살아온지 어언 9년. 어느덧 나는 선택을 강요받고 있었다. 이제는 회사에 충성하던 바보 같은 나를 내려놓고 풍요로운 미래의 나를 위해 지금부터 내가 좋아할만한 취미를 찾아보자.
+회사 스트레스 OUT! 워라밸 Good! 을 외치며, 2019년 6월의 어느날.
