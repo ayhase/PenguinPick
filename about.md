@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 나를 위한 행복찾기
+title: Penguin's Pick
 ---
 ## Penguin's Pick
 
