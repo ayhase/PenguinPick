@@ -2,7 +2,7 @@
 layout: page
 title: Penguin's Pick
 ---
-## Penguin's Pick
+## 나를 위한 행복찾기
 
 ![Emerald](img/sketchme.jpg "me")
 
