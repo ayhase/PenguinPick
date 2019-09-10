@@ -120,10 +120,11 @@
   'https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '400042623989129');
   fbq('track', 'PageView');
-  fbq('track', 'ViewContent',{
-		Content_title: "{{ page.title }}",
+  fbq('track', 'ViewContent', {
+		content_title: "{{ page.title }}"
 	});
 </script>
+
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=400042623989129&ev=PageView&noscript=1"
 /></noscript>
