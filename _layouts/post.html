@@ -15,3 +15,9 @@ layout: default
 </article>
 
 {% include disqus.html %}
+
+<script>
+  fbq('track', 'ViewContent',{
+		Content_title: {{ page.title }},
+	});
+</script>
